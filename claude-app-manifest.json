@@ -10,13 +10,13 @@
       "url": "/new"
     }
   },
-  "scope": "/",
-  "start_url": "/",
+  "scope": "https://claude.ai/",
+  "start_url": "https://claude.ai/",
   "name": "Claude",
   "short_name": "Claude",
   "icons": [
     {
-      "src": "/images/icon-512x512.png",
+      "src": "https://claude.ai/images/icon-512x512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any"
