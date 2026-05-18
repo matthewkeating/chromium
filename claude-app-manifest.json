@@ -1,6 +1,7 @@
 {
   "background_color": "hsl(49 26.8% 92%)",
   "display": "standalone",
+  "display": "minimal-ui",
   "display_override": ["tabbed"],
   "tab_strip": {
     "home_tab": {
