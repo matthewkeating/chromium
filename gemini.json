@@ -1,0 +1,24 @@
+{
+  "name": "Gemini",
+  "short_name": "Gemini",
+  "scope": "https://gemini.google.com/",
+  "start_url": "https://gemini.google.com/app",
+  "display": "standalone",
+  "display_override": ["tabbed"],
+  "tab_strip": {
+    "home_tab": {
+      "scope_patterns": [{ "pathname": "/*" }]
+    },
+    "new_tab_button": {
+      "url": "https://gemini.google.com/app"
+    }
+  },
+  "icons": [
+    {
+      "src": "<icon URL>",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any"
+    }
+  ]
+}
