@@ -16,7 +16,7 @@ A Chromium-based browser like Chrome, Edge, or Brave.
 ### Claude
 Claude is straightforward. Simply add a new HTTP interceptor rule of type Redirect Request. Configure it as shown below.
 
-![[claude.png]]
+![claude](claude.png)
 
 Save the rule, navigate to http://claude.ai, install the app.
 
@@ -25,15 +25,15 @@ GitHub is more complicated. To get it working, I installed 4 Requestly rules:
 
 One Redirect Request rule.
 
-![[github-redirect.png]]
+![github-redirect](github-redirect.png)
 
 Three Modify Headers rules.
 
-![[github-csp.png]]
+![github-csp](github-csp.png)
 
-![[github-cors.png]]
+![github-cors](github-cors.png)
 
-![[github-content-type.png]]
+![github-content-type](github-content-type.png)
 
 Once the rules are created, navigate to http://github.com, install the app.
 
