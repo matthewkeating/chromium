@@ -37,6 +37,11 @@ Three Modify Headers rules.
 
 Once the rules are created, navigate to http://github.com, install the app.
 
+## Gemini
+Gemini is straightforward, but different than Claude. In Requestly, you have to add a new rule that is an Inject Script. See below.
+
+![gemini-script](gemini-script.png)
+
 ## Limitations
 
 1. There is a bug in Chromium's PWA experience that prevent Cmd+T from opening a new tab. New tabs can only be open using the + symbol in the tab bar.
