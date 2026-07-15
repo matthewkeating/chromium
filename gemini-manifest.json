@@ -15,7 +15,7 @@
   },
   "icons": [
     {
-      "src": "<icon URL>",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Google_Gemini_icon_2025.svg/960px-Google_Gemini_icon_2025.svg.png",
       "type": "image/png",
       "sizes": "512x512",
       "purpose": "any"
