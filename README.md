@@ -1,3 +1,6 @@
+> [!Important]
+> As it turns out, this is a pretty burdensome way of doing things. A better appraoch is to use the [tabbed-web-app](https://github.com/matthewkeating/tabbed-web-app).
+
 # Usage
 These files allow you to create tabbed PWAs.
 
